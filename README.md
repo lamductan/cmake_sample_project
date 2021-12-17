@@ -1,6 +1,6 @@
 # Sample-Project
 
-##Steps to create a new project
+## Steps to create a new project
 1. Rename `include/sample-project` to `include/{new-project-name}`
 2. Open `include/{new-project-name}/utils.h`, replace "SAMPLE_PROJECT_" by "{NEW_PROJECT_NAME_}"
 3. Open `src/main.cpp`, replace "sample-project" by "{new-project-name}"
@@ -12,7 +12,7 @@
 9. Unzip `third_party.zip`
 10. Start coding
 
-##Build and run
+## Build and run
 ```
 cd build
 cmake ..
